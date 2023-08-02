@@ -33,3 +33,9 @@ body {
     transition-duration: 0s;
 }
 
+p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
